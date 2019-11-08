@@ -1,5 +1,9 @@
 # reinventing-the-wheel
 
+[![Build Status](https://travis-ci.org/8igMac/reinventing-the-wheel.svg?branch=master)](https://travis-ci.org/8igMac/reinventing-the-wheel)
+[![codecov](https://codecov.io/gh/8igMac/reinventing-the-wheel/branch/master/graph/badge.svg)](https://codecov.io/gh/8igMac/reinventing-the-wheel)
+
+
 People say "Don't reinvent the wheel." But sometimes you can learn
 a lot by implementing the algorithm and data structures itself.
 This repository contains a collection of data structures and 
